@@ -1,2 +1,2 @@
 # chanlugeon.github.io
-github.com/ChanLugeon
+https://github.com/chanlugeon
